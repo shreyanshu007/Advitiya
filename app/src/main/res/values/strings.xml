@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Advitiya</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Advitiya</string>
+    <string name="nav_header_subtitle">Annual technical fest</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_1">COMPETITION</string>
+    <string name="btn_2">WORKSHOP</string>
+    <string name="btn_3">TALKS/STARS</string>
+    <string name="btn_4">SCHEDULE</string>
+    <string name="btn_5">MUN</string>
+    <string name="welcome">Welcome To IIT Ropar</string>
+    <string name="title_activity_talks_and_stars">talks_and_stars</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="text_with_bullet1">  \u2022 Production of College ID card is mandatory at the Registration Desk</string>
+    <string name="text_with_bullet2">  \u2022 After successful registration, each registered student would be given an Accommodation Pass. It is mandatory for all registered students to carry this pass throughout their their stay during the fest</string>
+    <string name="text_with_bullet3">  \u2022 Production of College ID card is mandatory at the Registration Desk</string>
+    <string name="text_with_bullet4">  \u2022 Production of College ID card is mandatory at the Registration Desk</string>
+    <string name="text_with_bullet5">  \u2022 Production of College ID card is mandatory at the Registration Desk</string>
+    <string name="text_with_bullet6">  \u2022 Production of College ID card is mandatory at the Registration Desk</string>
+</resources>
