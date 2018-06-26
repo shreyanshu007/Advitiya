@@ -9,7 +9,9 @@ import android.widget.Toast;
 public class competition extends AppCompatActivity {
 
 //    private FloatingActionButton btn1;
-
+    public void btnPressed(View view){
+        Toast.makeText(competition.this, "clicked btn 1", Toast.LENGTH_SHORT).show();
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

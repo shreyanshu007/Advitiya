@@ -66,6 +66,7 @@
             android:id="@+id/menu_item2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="btnPressed"
             android:src="@drawable/star"
             fab:fab_label="Menu item 2"
             fab:fab_size="mini" />
